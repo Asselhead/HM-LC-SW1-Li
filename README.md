@@ -32,13 +32,17 @@ Bauteil                  | Bestellnummer    | Anzahl | Kommentar
 ------------------------ | ---------------- | ------ | ---------
 C1, C8, C9, C16, C17     | X5R-G0603 10/6   |   5    | -
 C2 .. C7, C10, C11, C14  | X7R-G0603 100N   |   9    | -
+C12, C13                 | X7R-G0603 15PF   |   2    | -
 R1, R3                   | RND 0603 1 470R  |   2    | -
 R2, R8, R9               | RND 0603 1 10K   |   3    | -
 IC1                      | MCP 1703T-3302E |   1    | - 2.0µA Leckstrom
 IC4                      | ATMEGA 644PA-AU |   1    | -
 IC8                      | MCP 73831T-2ACI |   1    | -
 IC9                      | SHT31           |   1    | - optional Temp./Humi
-Y1                       | CSTCE 8,00      |   1    | -
+LD1                      | LED grün 0603   |   1    | - pair
+LD2                      | LED blau 0603   |   1    | - Charge
+T1                       | SI2302          |   1    | - nicht bei Reichelt
+Q1                       | ABM8AIG-8.000MHZ|   1    | -
 Verbinder zu U2          | MPE 156-1-032   |   1    | muss per Hand umgebogen werden
 Verbinder zu U2          | SL 1X20G 2,00   |   1    | optional, hilfreich zum Anschließen des ISP
 
