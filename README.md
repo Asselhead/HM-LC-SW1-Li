@@ -19,3 +19,36 @@ Homematic AskSin Schaltaktor für LED-Lichterketten mit LiIon Akku Ladefunktion.
 - Warum nur 500mA Ladestrom? -> Der MCP73831 ist ein preiswerter, noch leicht von Hand bestückbarer LiIon Ladechip.
 In der Schaltung ist dieser so dimensioniert, dass der Ladestrom nur 450mA beträgt. Die Ladezeit bei heute üblichen LiIon Akkus liegt damit bei ca. 5-7 Stunden, was gerade noch so akzeptabel ist.
 - Warum ein teurer ATMEGA644? -> Davon habe ich noch diverse in der Restekiste gehabt, darüber hinaus soll die Leiterplatte auch die Erprobung eines Sharp Memory LCD Display ermöglichen. In der Hoffnung, dass mir bei der Realisierung jemand Softwaretechnisch unter die Arme greift.
+
+## Hardware
+
+#### Bauteile
+
+#### Reichelt
+
+[Bestellliste](https://www.reichelt.de/my/1519439)
+
+Bauteil                  | Bestellnummer    | Anzahl | Kommentar
+------------------------ | ---------------- | ------ | ---------
+C1, C8, C9, C16, C17     | X5R-G0603 10/6   |   5    | -
+C2 .. C7, C10, C11, C14  | X7R-G0603 100N   |   9    | -
+R1, R3                   | RND 0603 1 470R  |   2    | -
+R2, R8, R9               | RND 0603 1 10K   |   3    | -
+IC4                      | ATMEGA 644PA-AU |   1    | -
+IC9                      | SHT31           |   1    |
+Y1                       | CSTCE 8,00      |   1    | -
+Verbinder zu U2          | MPE 156-1-032   |   1    | muss per Hand umgebogen werden
+Verbinder zu U2          | SL 1X20G 2,00   |   1    | optional, hilfreich zum Anschließen des ISP
+
+
+#### Sonstiges
+
+Bauteil | Bestellnummer            | Anzahl | Kommentar
+------- | ------------------------ | ------ | ---------
+IC2     | CC1101 Funkmodul 868 MHz |   1    | z.B. [eBay](https://www.ebay.de/itm/272455136087)
+
+~8,3 cm Draht als Antenne
+
+
+### Programmieradapter
+- 1x ISP (z.B. [diesen hier](https://www.diamex.de/dxshop/USB-ISP-Programmer-fuer-Atmel-AVR-Rev2))
