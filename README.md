@@ -42,7 +42,7 @@ IC9                      | SHT31           |   1    | - optional Temp./Humi
 LD1                      | LED grün 0603   |   1    | - pair
 LD2                      | LED blau 0603   |   1    | - Charge
 T1                       | SI2302          |   1    | - nicht bei Reichelt
-Q1                       | ABM8AIG-8.000MHZ|   1    | -
+Q1                       | ABM8AIG-8.000MHZ|   1    | - Abracon nicht bei Reichelt
 Verbinder zu U2          | MPE 156-1-032   |   1    | muss per Hand umgebogen werden
 Verbinder zu U2          | SL 1X20G 2,00   |   1    | optional, hilfreich zum Anschließen des ISP
 
