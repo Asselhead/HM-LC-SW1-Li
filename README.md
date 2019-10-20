@@ -7,7 +7,7 @@ Homematic AskSin Schaltaktor für LED-Lichterketten mit LiIon Akku Ladefunktion.
 
 - ATMEGA644PA-AU (Pinbeschriftung/Netznamen folgen dem Bobuino Pinout).
 - USB Ladecontroller Microchip MCP73831T-2ACI/OT. Ladestrom Max. 500mA.
-- Leiterplattenformat optimiert für direkte Verlötung von 18650er LiIon Zellen.
+- Leiterplattenformat optimiert für direkte Verlötung von 18650er LiIon Zellen (18x65mm).
 - Empfohlener maximaler Entladestrom 1,5A. LED Lichterketten Entladestrom Typ. 50-100mA.
 - Lichterketten Vorwiderstand auf Lpl. bestückbar.
 - optionale I2C Header Leiste bestückbar.
