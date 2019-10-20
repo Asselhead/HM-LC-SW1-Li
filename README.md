@@ -10,6 +10,9 @@ Homematic AskSin Schaltaktor für LED-Lichterketten mit LiIon Akku Ladefunktion.
 - Leiterplattenformat optimiert für direkte Verlötung von 18650er LiIon Zellen.
 - Empfohlener maximaler Entladestrom 1,5A. LED Lichterketten Entladestrom Typ. 50-100mA.
 - Lichterketten Vorwiderstand auf Lpl. bestückbar.
+- optionale I2C Header Leiste bestückbar.
+- optional SHT31 Temp./Humi Sensor bestückbar.
+- optional SMD Headerleisten auf der BOT Seite bestückbar.
 
 ### FAQ
 
