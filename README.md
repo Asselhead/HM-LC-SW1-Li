@@ -7,7 +7,7 @@ Homematic AskSin Schaltaktor für LED-Lichterketten mit LiIon Akku Ladefunktion.
 
 Dies ist ein Hobbyprojekt, welches umfangreiche Kenntnisse im Umgang mit Lithium Akkus erfordert.
 Bei Falschbehandlung von Lithium Akkus kann es zu Brand oder Explosionen kommen. Der Entwickler der Schaltung und des Layout kann keine Garantie für die korrekte Funktion übernehmen und kann für evtl. auftretende Folgeschäden keine Haftung übernehmen.
-Lithium Akkus nur unter Aufsicht auf einer feuerfesten Unterlage laden!
+Lithium Akkus nur unter Aufsicht auf einer feuerfesten Unterlage laden! Verwendung auf eigene Gefahr!
 
 ## Features
 
