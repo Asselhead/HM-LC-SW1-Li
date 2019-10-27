@@ -3,7 +3,7 @@ Homematic AskSin Schaltaktor für LED-Lichterketten mit LiIon Akku Ladefunktion.
 - Basierend auf HM-LC-SW1-BA-PCB
 ![ISO_BATT](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/ISO_BATT.png)
 
-## Warnung!!!
+## **Warnung!!!**
 
 Dies ist ein Hobbyprojekt, welches umfangreiche Kenntnisse im Umgang mit Lithium Akkus erfordert.
 Bei Falschbehandlung von Lithium Akkus kann es zu Brand oder Explosionen kommen. Der Entwickler der Schaltung und des Layout kann keine Garantie für die korrekte Funktion übernehmen und kann für evtl. auftretende Folgeschäden keine Haftung übernehmen.
@@ -12,7 +12,7 @@ Lithium Akkus nur unter Aufsicht auf einer feuerfesten Unterlage laden! Verwendu
 ## Features
 
 - ATMEGA644PA-AU (Pinbeschriftung/Netznamen folgen dem Bobuino Pinout).
-- USB Ladecontroller Microchip MCP73831T-2ACI/OT. Ladestrom Max. 500mA, Ladeschlussspannung 4,2V.
+- USB Ladecontroller Microchip MCP73831T-2ACI/OT. Ladestrom Max. 500mA, Ladeschlussspannung **4,2V**.
 - Leiterplattenformat optimiert für direkte Verlötung von 18650er LiIon Zellen mit U-Lötfahnen (18x65mm).
 - Empfohlener maximaler Entladestrom 1,5A. LED Lichterketten Entladestrom Typ. 50-100mA.
 - Lichterketten Vorwiderstand auf Lpl. bestückbar.
