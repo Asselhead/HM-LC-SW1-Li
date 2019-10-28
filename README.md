@@ -29,6 +29,10 @@ In der Schaltung ist dieser so dimensioniert, dass der Ladestrom nur 450mA betr�
 - Warum ein teurer ATMEGA644?
 -> Davon habe ich noch diverse in der Restekiste gehabt, darüber hinaus soll die Leiterplatte auch die Erprobung eines Sharp Memory LCD Display ermöglichen. In der Hoffnung, dass mir bei der Realisierung jemand Softwaretechnisch unter die Arme greift.
 
+## Schaltung
+
+![Schematic_V0.2](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Schematic_V0.2.pdf)
+
 ## Hardware
 
 #### Benötigte Bauteile
