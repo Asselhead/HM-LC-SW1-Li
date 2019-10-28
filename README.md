@@ -31,7 +31,7 @@ In der Schaltung ist dieser so dimensioniert, dass der Ladestrom nur 450mA betr√
 
 ## Schaltung
 
-![Schematic_V0.2](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Schematic_V0.2.pdf)
+![Schaltung](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Schematic_V0.2.pdf)
 
 ## Hardware
 
