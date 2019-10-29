@@ -35,10 +35,10 @@ In der Schaltung ist dieser so dimensioniert, dass der Ladestrom nur 450mA betr�
 -> Davon habe ich noch diverse in der Restekiste gehabt, darüber hinaus soll die Leiterplatte auch die Erprobung eines Sharp Memory LCD Display ermöglichen (128x128Pixel). In der Hoffnung, dass mir bei der Realisierung jemand Softwaretechnisch unter die Arme greift.
 
 ### Wichtige Hinsweise zur Ladeschaltung
-- Den hier verwendete Lithium Ladecontroller MCP73831 gibt es in verschiedenen Varianten. Es muss zwingend darauf geachtet werden, dass eine Variante mit der **-2** im Namen verwendet wird. Das stellt sicher, dass die Ladeschlussspannung Werksseitig auf 4,2V einstellt ist und der anschlossene LiIon Akku nicht überladen wird. In Frage kommen folgende Typen:
+- Den hier verwendete Lithium Ladecontroller MCP73831 gibt es in verschiedenen Varianten. Es muss zwingend darauf geachtet werden, dass eine Variante mit der **-2** im Namen verwendet wird. Das stellt sicher, dass die Ladeschlussspannung Werksseitig auf 4,2V eingestellt ist und der anschlossene LiIon Akku nicht überladen wird. In Frage kommen folgende Typen:
 1. MCP73831-2ACI/OT
 2. MCP73831T-2ACI/OT (wie 1. jedoch Tape and Reel)
-3. MCP73831-2ATI/OT (wie 1. jedoch wird Akku Voll bereits bei 20% Ireg erkannt)
+3. MCP73831-2ATI/OT (wie 1. jedoch wird Akku Voll bereits bei 20% von Ireg (hier 90mA) erkannt)
 4. MCP73831T-2ATI/OT (wie 3. jedoch Tape and Reel)
 
 ## Schaltung
@@ -107,3 +107,5 @@ Es empfiehlt sich folgende Bestückungsreihenfolge einzuhalten.
 3. IC8, IC5 und T1
 4. Alle Widerstände und Kondensatoren
 5. IC2 - CC1101 Modul
+
+## Inbetriebnahme
