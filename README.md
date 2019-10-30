@@ -51,7 +51,6 @@ In der Schaltung ist dieser so dimensioniert, dass der Ladestrom nur 450mA betr�
 
 #### Reichelt
 
-[Bestellliste](https://www.reichelt.de/my/1519439)
 
 Bauteil                  | Bestellnummer    | Anzahl | Kommentar
 ------------------------ | ---------------- | ------ | ---------
@@ -72,7 +71,7 @@ LD2                      | RND 135-00182   |   1    | - Status
 T1                       | IRLML 2502      |   1    | - Alternativ SI2302
 Q1                       | ABM8AIG-8.000MHZ|   1    | - optional. Abracon nicht bei Reichelt
 J1, J2                   | SL 1X36G SMD2,54|   1    | - optional auf der BOT Seite, Abschnitt
-BU1                       | Hirose ZX62D-AB-5P8| 1| - nicht bei Reichelt. Evtl. geht auch MIUSB-F5M-ABG-U von Reichelt
+BU1                       | Hirose ZX62D-AB-5P8 | 1 | - nicht bei Reichelt. Evtl. geht auch MIUSB-F5M-ABG-U von Reichelt
 BU2                      | WR-FPC           |   1    | - optional auf der BOT Seite, Anschluss des Sharp Memory LCD Display. Nicht bei Reichelt. Würth 68711014022
 
 
@@ -90,6 +89,7 @@ IC1     | CC1101 Funkmodul 868 MHz |   1    | z.B. [eBay](https://www.ebay.de/it
 - 1x ISP (z.B. Reichelt Art. Nr. DIAMEX USB ISP)
 
 ## Aufbau
+
 
 ### Hilfsmittel
 
@@ -109,3 +109,8 @@ Es empfiehlt sich folgende Bestückungsreihenfolge einzuhalten.
 5. IC2 - CC1101 Modul
 
 ## Inbetriebnahme
+
+## Gehäuse
+
+Ein Gehäuse ist auf Thingiverse hinterlegt:
+https://www.thingiverse.com/thing:3946705
