@@ -90,7 +90,7 @@ IC1     | CC1101 Funkmodul 868 MHz |   1    | z.B. [eBay](https://www.ebay.de/it
 
 ## Aufbau
 ![TOP_V0.2](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/TOP_V0.2.png)
-![BOT_V0.2](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/BOT_V0.2.png)
+![Bot_V0.2](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/Bot_V0.2.png)
 
 ### Hilfsmittel
 
@@ -112,6 +112,7 @@ Es empfiehlt sich folgende Bestückungsreihenfolge einzuhalten.
 ## Inbetriebnahme
 
 Für den verwendeten ATMEGA644PA-AU muss zunächst das MightyCore Arduino Hardware Paket von MCUDude heruntergeladen werden.
+Als Sketch kommt der HM-LC-SW1-BA-PCB (https://github.com/pa-pa/AskSinPP/blob/master/examples/HM-LC-SW1-BA-PCB/HM-LC-SW1-BA-PCB.ino) zum Einsatz.
 
 ## Gehäuse
 
