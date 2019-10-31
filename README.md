@@ -9,6 +9,10 @@ Dies ist ein Hobbyprojekt, welches umfangreiche Kenntnisse im Umgang mit Lithium
 Bei Falschbehandlung von Lithium Akkus kann es zu Brand oder Explosionen kommen. Der Entwickler der Schaltung und des Layout kann keine Garantie für die korrekte Funktion übernehmen und kann für evtl. auftretende Folgeschäden keine Haftung übernehmen.
 Lithium Akkus nur unter Aufsicht auf einer feuerfesten Unterlage laden! Verwendung auf eigene Gefahr!
 
+## Link zum Thread im Homematic Forum:
+
+https://homematic-forum.de/forum/viewtopic.php?f=76&t=53925&sid=b3c1556a95baa7e0ea64069ffd812379
+
 ## Features
 
 - ATMEGA644PA-AU (Pinbeschriftung/Netznamen folgen dem Bobuino Pinout).
@@ -125,6 +129,11 @@ Je nach verwendetem Akku kann es hilfreich sein, die Lötfahnen mit einem Seiten
 
 ## Gehäuse
 
+![IMG_20191028_201238](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/IMG_20191028_201238.jpg)
 
 Ein Gehäuse ist auf Thingiverse hinterlegt:
 https://www.thingiverse.com/thing:3946705
+
+## Leiterplatten
+
+Bei Interesse an unbestückten Leiterplatten bitte im HM Forum per PM melden.
