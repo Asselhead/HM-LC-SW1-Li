@@ -81,6 +81,7 @@ BU2                      | WR-FPC           |   1    | - optional auf der BOT Se
 Bauteil | Bestellnummer            | Anzahl | Kommentar
 ------- | ------------------------ | ------ | ---------
 IC1     | CC1101 Funkmodul 868 MHz |   1    | z.B. [eBay](https://www.ebay.de/itm/272455136087)
+Akku    | Panasonic NCR18650B      |   1    | z.B. [Akkuteile](https://www.akkuteile.de/lithium-ionen-akkus/18650/panasonic/panasonic-ncr18650b-3-6v-3400mah-loetfahne-u_1006391_1662) 
 
 ~8,3 cm Draht als Antenne
 
