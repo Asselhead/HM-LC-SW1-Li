@@ -115,6 +115,10 @@ Es empfiehlt sich folgende Bestückungsreihenfolge einzuhalten.
 Für den verwendeten ATMEGA644PA-AU muss zunächst das MightyCore Arduino Hardware Paket von MCUDude heruntergeladen werden.
 Als Sketch kommt der HM-LC-SW1-BA-PCB (https://github.com/pa-pa/AskSinPP/blob/master/examples/HM-LC-SW1-BA-PCB/HM-LC-SW1-BA-PCB.ino) zum Einsatz.
 
+Erst nach dem programmieren, anlernen und testen des Aktors sollte der Akku angelötet werden.
+Wichtig!!! Die Bot Seite der Leiterplatte muss nach dem Programmieren und vor dem verlöten des Akkus mit Kapton oder Isolierband abgeklebt werden um Kurzschlüsse zu vermeiden!
+Je nach verwendetem Akku kann es hilfreich sein, die Lötfahnen mit einem Seitenschneider etwas zurecht zu stutzen.
+
 ## Gehäuse
 
 Ein Gehäuse ist auf Thingiverse hinterlegt:
