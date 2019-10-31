@@ -32,9 +32,9 @@ Lithium Akkus nur unter Aufsicht auf einer feuerfesten Unterlage laden! Verwendu
 In der Schaltung ist dieser so dimensioniert, dass der Ladestrom nur 450mA beträgt. Die Ladezeit bei heute üblichen LiIon Akkus liegt damit bei ca. 5-7 Stunden, was gerade noch so akzeptabel ist.
 
 - Warum ein teurer ATMEGA644?
--> Davon habe ich noch diverse in der Restekiste gehabt, darüber hinaus soll die Leiterplatte auch die Erprobung eines Sharp Memory LCD Display ermöglichen (128x128Pixel). In der Hoffnung, dass mir bei der Realisierung jemand Softwaretechnisch unter die Arme greift.
+-> Davon habe ich noch diverse in der Restekiste gehabt. Darüber hinaus soll die Leiterplatte auch die Erprobung eines Sharp Memory LCD Display ermöglichen (128x128Pixel). In der Hoffnung, dass mir bei der Realisierung jemand Softwaretechnisch unter die Arme greift.
 
-### Wichtige Hinsweise zur Ladeschaltung
+### Wichtige Hinweise zur Ladeschaltung
 - Den hier verwendete Lithium Ladecontroller MCP73831 gibt es in verschiedenen Varianten. Es muss zwingend darauf geachtet werden, dass eine Variante mit der **-2** im Namen verwendet wird. Das stellt sicher, dass die Ladeschlussspannung Werksseitig auf 4,2V eingestellt ist und der anschlossene LiIon Akku nicht überladen wird. In Frage kommen folgende Typen:
 1. MCP73831-2ACI/OT
 2. MCP73831T-2ACI/OT (wie 1. jedoch Tape and Reel)
@@ -92,6 +92,10 @@ Akku    | Panasonic NCR18650B      |   1    | z.B. [Akkuteile](https://www.akkut
 ## Aufbau
 ![TOP_V0.2](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/TOP_V0.2.png)
 ![Bot_V0.2](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/Bot_V0.2.png)
+
+## Bestückungsunterlagen
+
+Assembly
 
 ### Hilfsmittel
 
