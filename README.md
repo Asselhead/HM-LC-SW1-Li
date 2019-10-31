@@ -137,3 +137,7 @@ https://www.thingiverse.com/thing:3946705
 ## Leiterplatten
 
 Bei Interesse an unbestückten Leiterplatten bitte im HM Forum per PM melden.
+
+## Dankeschön
+
+Vielen Dank an die AskSin++ Pioniere im Homematic Forum (pa-pa, Jérôme, Tom Major, Alex Reinert, Marco usw.) ohne die es sicherlich keine Eigenbau Hardware gäbe.
