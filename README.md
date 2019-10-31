@@ -108,7 +108,7 @@ Es empfiehlt sich folgende Bestückungsreihenfolge einzuhalten.
 2. BU1 - Micro USB Buchse
 3. IC8, IC5 und T1
 4. Alle Widerstände und Kondensatoren
-5. IC2 - CC1101 Modul
+5. IC1 - CC1101 Modul
 
 ## Inbetriebnahme
 
