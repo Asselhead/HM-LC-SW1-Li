@@ -93,9 +93,9 @@ Akku    | Panasonic NCR18650B      |   1    | z.B. [Akkuteile](https://www.akkut
 ![TOP_V0.2](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/TOP_V0.2.png)
 ![Bot_V0.2](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/Bot_V0.2.png)
 
-## Bestückungsunterlagen
+### Bestückungsunterlagen
 
-Assembly
+[Assembly](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Assembly_HM-LC-SW1-Li.PDF)
 
 ### Hilfsmittel
 
@@ -124,6 +124,7 @@ Wichtig!!! Die Bot Seite der Leiterplatte muss nach dem Programmieren und vor de
 Je nach verwendetem Akku kann es hilfreich sein, die Lötfahnen mit einem Seitenschneider etwas zurecht zu stutzen.
 
 ## Gehäuse
+
 
 Ein Gehäuse ist auf Thingiverse hinterlegt:
 https://www.thingiverse.com/thing:3946705
