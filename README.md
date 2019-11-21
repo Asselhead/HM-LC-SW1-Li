@@ -47,7 +47,7 @@ In der Schaltung ist dieser so dimensioniert, dass der Ladestrom nur 450mA betr√
 
 ## Schaltung
 
-[Schaltung](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Schematic_V0.2.pdf)
+[Schaltung](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Schematic_V03.pdf)
 
 ## Hardware
 
@@ -94,8 +94,8 @@ Akku    | Panasonic NCR18650B      |   1    | z.B. [Akkuteile](https://www.akkut
 - 1x ISP (z.B. Reichelt Art. Nr. DIAMEX USB ISP)
 
 ## Aufbau
-![TOP_V0.2](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/TOP_V0.2.png)
-![Bot_V0.2](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/Bot_V0.2.png)
+![TOP_V03](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/TOP_V03.png)
+![Bot_V03](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/Bot_V03.png)
 
 ### Best√ºckungsunterlagen
 
