@@ -95,7 +95,7 @@ Akku    | Panasonic NCR18650B      |   1    | z.B. [Akkuteile](https://www.akkut
 
 ## Aufbau
 ![TOP_V03](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/TOP_V03.png)
-![Bot_V03](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/Bot_V03.png)
+![BOT_V03](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/BOT_V03.png)
 
 ### Bestückungsunterlagen
 
