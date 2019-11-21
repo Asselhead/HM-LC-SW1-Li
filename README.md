@@ -130,6 +130,8 @@ Je nach verwendetem Akku kann es hilfreich sein, die Lötfahnen mit einem Seiten
 ## Gehäuse
 
 ![IMG_20191028_201238](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/IMG_20191028_201238.jpg)
+![DSC02080](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/DSC02080.JPG)
+![DSC02079](https://github.com/Asselhead/HM-LC-SW1-Li/blob/master/Images/DSC02079.JPG)
 
 Ein Gehäuse ist auf Thingiverse hinterlegt:
 https://www.thingiverse.com/thing:3946705
