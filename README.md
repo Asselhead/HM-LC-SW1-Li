@@ -72,7 +72,7 @@ IC4                      | MCP 73831T-2ACI |   1    | - Alternativ MCP 73831T-2A
 IC3                      | SHT31           |   1    | - optional Temp./Humi - nicht bei Reichelt
 LD1                      | RND 135-00180   |   1    | - Ladezustand
 LD2                      | RND 135-00182   |   1    | - Status
-T1                       | IRLML 2502      |   1    | - Alternativ SI2302
+T1                       | IRLML 2502      |   1    | - Alternativ SI2302, IRLML6344
 S1                       | 434153017835|   1    | - Taster von Würth, alternativ China
 J1, J2                   | SL 1X36G SMD2,54|   1    | - optional auf der BOT Seite, Abschnitt
 BU1                       | Hirose ZX62D-AB-5P8 | 1 | - nicht bei Reichelt. Evtl. geht auch MIUSB-F5M-ABG-U von Reichelt
