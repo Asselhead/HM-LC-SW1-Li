@@ -41,8 +41,8 @@ In der Schaltung ist dieser so dimensioniert, dass der Ladestrom nur 450mA betr�
 ### Wichtige Hinweise zur Ladeschaltung
 - Den hier verwendete Lithium Ladecontroller MCP73831 gibt es in verschiedenen Varianten. Es muss zwingend darauf geachtet werden, dass eine Variante mit der **-2** im Namen verwendet wird. Das stellt sicher, dass die Ladeschlussspannung Werksseitig auf 4,2V eingestellt ist und der anschlossene LiIon Akku nicht überladen wird. In Frage kommen folgende Typen:
 1. MCP73831-2ACI/OT
-2. MCP73831T-2ACI/OT (wie 1. jedoch Tape and Reel)
-3. MCP73831-2ATI/OT (wie 1. jedoch wird Akku Voll bereits bei 20% von Ireg (hier 90mA) erkannt)
+2. MCP73831T-2ACI/OT (wie 1. jedoch Tape and Reel -> Verfügbar bei Reichelt)
+3. MCP73831-2ATI/OT (wie 1. jedoch wird Akku Voll bereits bei 20% von Ireg (hier 90mA) erkannt -> kürzere Ladezeit aber weniger eingeladene Kapazität)
 4. MCP73831T-2ATI/OT (wie 3. jedoch Tape and Reel)
 
 ## Schaltung
