@@ -20,7 +20,7 @@ https://homematic-forum.de/forum/viewtopic.php?f=76&t=53925&sid=b3c1556a95baa7e0
 - MCP1703T-3302E/CB LDO mit sehr geringem Ruhestrom.
 - Leiterplattenformat optimiert für direkte Verlötung von 18650er LiIon Zellen mit U-Lötfahnen (18x65mm).
 - Empfohlener maximaler Entladestrom 1,5A. LED Lichterketten Entladestrom Typ. 50-100mA.
-- Lichterketten Vorwiderstand auf Lpl. bestückbar.
+- Lichterketten Vorwiderstand auf Lpl. bestückbar (ggf. 330mW 0805er Type verwenden).
 - optional I2C Header Leiste und Pull-Ups bestückbar.
 - optional SHT31 Temp./Humi Sensor bestückbar.
 - optional SMD Headerleisten mit I/Os im 2,54er Raster auf der BOT Seite bestückbar.
@@ -55,25 +55,27 @@ In der Schaltung ist dieser so dimensioniert, dass der Ladestrom nur 450mA betr�
 
 #### Reichelt
 
+[Reichelt Warenkorb (Nur Basisbestückung)](https://www.reichelt.de/my/1648397)
+
 
 Bauteil                  | Bestellnummer    | Anzahl | Kommentar
 ------------------------ | ---------------- | ------ | ---------
 C1, C9, C11, C17, C18    | X5R-G0603 10/6   |   5    | -
 C2 .. C8, C13, C19       | X7R-G0603 100N   |   9    | -
-C12, C14                 | X7R-G0603 15PF   |   2    | - optional bei bestücktem Quarz.
 C15, C16                 | X7R-G0603 2,2/10 |   2    | - optional auf BOT Seite
 R3, R6                   | RND 0603 1 470R  |   2    | -
 R1, R7..R9, R15          | RND 0603 1 10K   |   5    | -
-R11                      | RND 0805         |   1   | - Widerstandswert abhängig von Lichterkette
-R14                      | RND 1550603 AE   |   1   |
+R11                      | RND 0805   330mW |   1   | - Widerstandswert abhängig von Lichterkette
+R14                      | RND 1550603 AE   |   1   | - Basisvorwiderstand FET
+R5                       |RND 0603 1 2K     |   1   | - Ladestrom Einstell-Widerstand 2K=500mA
 IC5                      | MCP 1703T-3302E |   1    | - 2.0µA Leckstrom
 IC2                      | ATMEGA 644PA-AU |   1    | -
 IC4                      | MCP 73831T-2ACI |   1    | - Alternativ MCP 73831T-2ATI
 IC3                      | SHT31           |   1    | - optional Temp./Humi - nicht bei Reichelt
-LD1                      | RND 135-00180   |   1    | - Ladezustand
-LD2                      | RND 135-00182   |   1    | - Status
-T1                       | IRLML 2502      |   1    | - Alternativ SI2302, IRLML6344
-S1                       | 434153017835|   1    | - Taster von Würth, alternativ China
+LD1                      | RND 135-00180   |   1    | - Ladezustand LED
+LD2                      | RND 135-00182   |   1    | - Status LED
+T1                       | IRLML6344       |   1    | - Alternativ SI2302, IRLML2502
+S1                       | KMR 231 G LFS   |   1    | - Originaltaster ist von Würth 434153017835
 J1, J2                   | SL 1X36G SMD2,54|   1    | - optional auf der BOT Seite, Abschnitt
 BU1                       | Hirose ZX62D-AB-5P8 | 1 | - nicht bei Reichelt. Evtl. geht auch MIUSB-F5M-ABG-U von Reichelt
 BU2                      | WR-FPC           |   1    | - optional auf der BOT Seite, Anschluss des Sharp Memory LCD Display. Nicht bei Reichelt. Würth 68711014022
