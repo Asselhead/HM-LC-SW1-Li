@@ -77,7 +77,7 @@ LD2                      | RND 135-00182   |   1    | - Status LED
 T1                       | IRLML6344       |   1    | - Alternativ SI2302, IRLML2502
 S1                       | KMR 231 G LFS   |   1    | - Originaltaster ist von Würth 434153017835
 J1, J2                   | SL 1X36G SMD2,54|   1    | - optional auf der BOT Seite, Abschnitt
-**BU1**                  | **Hirose ZX62D-AB-5P8** | 1 | **- nicht bei Reichelt. Evtl. geht auch MIUSB-F5M-ABG-U von Reichelt**
+**BU1**                  | **Hirose ZX62D-AB-5P8** | 1 | **- nicht bei Reichelt. Evtl. geht auch MIUSB-F5M-ABG-U von Reichelt oder https://lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-C10418_C10418.html**
 BU2                      | WR-FPC           |   1    | - optional auf der BOT Seite, Anschluss des Sharp Memory LCD Display. Nicht bei Reichelt. Würth 68711014022
 
 
