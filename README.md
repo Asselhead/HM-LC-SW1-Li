@@ -64,7 +64,7 @@ C1, C9, C11, C17, C18    | X5R-G0603 10/6   |   5    | -
 C2 .. C8, C13, C19       | X7R-G0603 100N   |   9    | -
 C15, C16                 | X7R-G0603 2,2/10 |   2    | - optional auf BOT Seite
 R3, R6                   | RND 0603 1 470R  |   2    | -
-R1, R7..R9, R15          | RND 0603 1 10K   |   5    | -
+R1, R7..R10, R15         | RND 0603 1 10K   |   6    | -
 R11                      | RND 0805   330mW |   1   | - Widerstandswert abhängig von Lichterkette
 R14                      | RND 1550603 AE   |   1   | - Basisvorwiderstand FET
 R5                       |RND 0603 1 2K     |   1   | - Ladestrom Einstell-Widerstand 2K=500mA
